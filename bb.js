@@ -7,3 +7,4 @@ var c=9;
 var d=0;
 var b=0;
 var n=0;
+var b=0
